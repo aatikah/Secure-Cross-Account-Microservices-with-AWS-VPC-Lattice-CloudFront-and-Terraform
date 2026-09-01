@@ -1,0 +1,23 @@
+# Terraform state files
+**/*.tfstate
+**/*.tfstate.*
+
+# Terraform crash logs
+crash.log
+
+# Local Terraform directories
+.terraform/
+**/.terraform/
+
+# Generated override files
+*.override.tf
+*.override.tf.json
+
+# Terraform variable files if local-only
+# Uncomment if you do not want to track local variable files:
+# *.tfvars
+# *.tfvars.json
+
+# Project-specific article files
+medium-article-k.md
+vpc-lattice-terraform-cross-account-guide.md

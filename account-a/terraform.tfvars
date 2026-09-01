@@ -1,0 +1,5 @@
+aws_region      = "us-east-1"
+project         = "ecommerce"
+account_b_id    = "YOUR_ACCOUNT_B_ID"
+customer_ou_arn = "arn:aws:organizations::YOUR_ORG_ACCOUNT_ID:ou/o-XXXXX/ou-XXXX-XXXXXXXX"
+instance_type   = "t2.micro"
