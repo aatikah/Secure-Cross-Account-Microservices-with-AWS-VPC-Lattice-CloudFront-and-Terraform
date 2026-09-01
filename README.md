@@ -294,5 +294,15 @@ This setup gives you a working cross-account microservices architecture with pro
 
 ---
 
+## 📖 Detailed Walkthrough
+For a comprehensive step-by-step guide, including screenshots and detailed explanations, check out the full tutorial on Medium:
+[**Build Secure Cross-Account Microservices on AWS UsingVPC Lattice, CloudFront, and Terraform**](https://medium.com/p/de3b324fe517)
+
+
+## 📬 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulhakeem-sulaiman/)
+- ☕ [Support me on BuyMeACoffee](https://buymeacoffee.com/aatikah)
+- 🧪 [Explore More Projects on GitHub](https://github.com/aatikah)
+
 
 
